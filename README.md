@@ -14,6 +14,6 @@ Live Demo
 [JS-fiddle demp]( http://jsfiddle.net/7FdfJ/1/)
 
 
-LICENCE
+LICENSE
 =======
 MIT
